@@ -1,5 +1,5 @@
 /*
- * CSE 1342 - I/O and variables
+ * CSE 1342 - I/O and Variables
  * Jake Carlson
  * 8/20/2018
  */
@@ -15,8 +15,8 @@ int main()
     int val1;
     int val2;
     
-    // cout     console output
-    // cin      console input
+    // cout     characters out
+    // cin      characters in
     // >>       stream extraction operator
     // <<       stream insertion  operator
     cout << "Enter a number:";
