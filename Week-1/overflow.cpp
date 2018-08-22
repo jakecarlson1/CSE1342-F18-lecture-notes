@@ -15,7 +15,43 @@ int main()
     cout << "Integer:\t" << big << endl;
     cout << "Long:\t\t" << bigger << endl;
     cout << "Short:\t\t" << small << endl;
-    cout << "--------------------------------" << endl;
+	cout << "--------------------------------" << endl;
+	
+	big = big * 2048;
+	bigger = bigger * 2048;
+	small = small * 2048;
+
+	cout << "Integer:\t" << big << endl;
+    cout << "Long:\t\t" << bigger << endl;
+    cout << "Short:\t\t" << small << endl;
+	cout << "--------------------------------" << endl;
+
+	big = big * 2048;
+	bigger = bigger * 2048;
+	small = small * 2048;
+
+	cout << "Integer:\t" << big << endl;
+    cout << "Long:\t\t" << bigger << endl;
+    cout << "Short:\t\t" << small << endl;
+	cout << "--------------------------------" << endl;
+
+	big = big * 2048;
+	bigger = bigger * 2048;
+	small = small * 2048;
+
+	cout << "Integer:\t" << big << endl;
+    cout << "Long:\t\t" << bigger << endl;
+    cout << "Short:\t\t" << small << endl;
+	cout << "--------------------------------" << endl;
+
+	big = big * 2048;
+	bigger = bigger * 2048;
+	small = small * 2048;
+
+	cout << "Integer:\t" << big << endl;
+    cout << "Long:\t\t" << bigger << endl;
+    cout << "Short:\t\t" << small << endl;
+	cout << "--------------------------------" << endl;
 
     return 0;
 }
