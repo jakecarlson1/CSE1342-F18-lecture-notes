@@ -4,5 +4,5 @@ This repo holds all of the code covered in 1342, programming concepts. The repo 
 ## Topics
 **Week 1** - Basic input and output, variables, assignment, overflow, casting
 
-**Week 2** - Loops, branches, Fizz Buzz, Strings
+**Week 2** - Loops, branches, Fizz Buzz, Strings, Functions, c-strings
 
