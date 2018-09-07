@@ -19,5 +19,17 @@ int main()
 		cout << "Strlen passed" << endl;
 	}
 
+	cout << greeting << endl;
+
     return 0;
+}
+
+int ourStringLen(char str[]) 
+{
+	int i = 0;
+	while (str[i] != '\0') {
+		str[i] = 'a';
+		i++;
+	}
+	return i;
 }
